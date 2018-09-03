@@ -1,2 +1,2 @@
-# amp-test
-Test app to use google AMP
+# amp-sample
+Sample app to use google AMP
